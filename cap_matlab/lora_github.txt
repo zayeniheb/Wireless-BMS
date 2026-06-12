@@ -1,0 +1,2 @@
+https://github.com/SMotlaq/LoRa/blob/master/LoRa/LoRa.h
+https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/

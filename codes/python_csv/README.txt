@@ -1,0 +1,1 @@
+This folder contains the code used to read data from each ESP32-based equipment and log the collected data into an Excel file for analysis.
